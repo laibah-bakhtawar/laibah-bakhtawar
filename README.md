@@ -2,9 +2,9 @@
 
 ### 💻 Software Engineering Student | Aspiring Data Analyst | AI Enthusiast
 
-I'm a **Software Engineering undergraduate (4th Semester)** at **Fatima Jinnah Women University (FJWU), Islamabad**, passionate about Data Analytics, Artificial Intelligence, and building practical software solutions.
+I'm a **Software Engineering undergraduate (3rd year)** at **Fatima Jinnah Women University (FJWU), Islamabad**, passionate about Data Analytics, Artificial Intelligence, and building practical software solutions.
 
-Currently, I'm strengthening my analytical skills through the **Google Data Analytics Professional Certificate** while documenting my learning journey and projects here on GitHub.
+Currently, I'm strengthening my analytical skills through the **📚 Currently pursuing the Google Advanced Data Analytics Professional Certificate (Coursera)** while documenting my learning journey and projects here on GitHub.
 
 ---
 
