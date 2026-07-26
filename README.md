@@ -2,18 +2,25 @@
 
 # 👋 Hi, I'm Laibah Bakhtawar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Exploring+Data+Analytics;Learning+Artificial+Intelligence;Building+Practical+Projects;Always+Curious+🚀" alt="Typing SVG"/>
+### 💻 Software Engineering Student | Exploring Data Analytics • AI • Software Development
+
+*"Learning by building. Growing through curiosity. Creating with purpose."*
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=laibah-bakhtawar&label=Profile%20Views&color=4F46E5&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=laibah-bakhtawar&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-### 💻 Software Engineering Student • Exploring Data Analytics, AI & Software Development
+<p align="center">
 
-*"Learning by building • Growing through curiosity • Creating with purpose."*
+<img src="https://img.shields.io/badge/Software_Engineering-0A66C2?style=for-the-badge"/>
 
-<p>
+<img src="https://img.shields.io/badge/Data_Analytics-198754?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/laibah-bakhtawar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,7 +28,6 @@
 <a href="mailto:laibahbakhtawar221@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
@@ -30,21 +36,24 @@
 
 # 👩‍💻 About Me
 
-I'm a **3rd-year Software Engineering student** at **Fatima Jinnah Women University (FJWU), Islamabad**.
+🎓 I'm a **3rd-year Software Engineering student** at **Fatima Jinnah Women University (FJWU), Islamabad**.
 
-I enjoy exploring different areas of technology and believe the best way to learn is by building practical projects. My current interests include **Software Development**, **Data Analytics**, and **Artificial Intelligence**, and I'm continuously strengthening my technical skills through university coursework, certifications, and hands-on projects.
+I enjoy exploring different areas of technology and believe the best way to learn is by building practical projects. My interests currently include **Software Development**, **Data Analytics**, and **Artificial Intelligence**.
 
-I'm currently pursuing the **Google Data Analytics Professional Certificate (Coursera)** while documenting my learning journey and projects here on GitHub.
+I'm currently pursuing the **Google Data Analytics Professional Certificate (Coursera)** while strengthening my technical skills through university coursework, certifications, and hands-on projects.
+
+I use GitHub to document my learning journey, showcase my academic work, and continuously improve as a developer.
 
 ---
 
 # 🚀 Currently Working On
 
 - 📚 Google Data Analytics Professional Certificate
-- 📊 Building my Data Analytics Portfolio
-- 💻 Uploading and documenting university projects
-- 🌱 Strengthening SQL, Python, Excel & Tableau
-- 🤝 Exploring Open Source
+- 📊 Building a Data Analytics Portfolio
+- 💻 Publishing university projects on GitHub
+- 🐍 Learning Python for Data Analytics
+- 📈 Strengthening SQL, Excel & Tableau
+- 🌱 Exploring Open Source
 
 ---
 
@@ -60,9 +69,9 @@ I'm currently pursuing the **Google Data Analytics Professional Certificate (Cou
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Programming Languages
+## Programming Languages
 
 <p align="center">
 
@@ -70,7 +79,7 @@ I'm currently pursuing the **Google Data Analytics Professional Certificate (Cou
 
 </p>
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 
 <p align="center">
 
@@ -78,11 +87,11 @@ I'm currently pursuing the **Google Data Analytics Professional Certificate (Cou
 
 </p>
 
-### 📊 Also Familiar With
+## Also Familiar With
 
-- Microsoft Excel
-- Cisco Packet Tracer
-- Prompt Engineering
+- 📊 Microsoft Excel
+- 🌐 Cisco Packet Tracer
+- 💡 Prompt Engineering
 
 ---
 
@@ -101,13 +110,13 @@ I'm currently pursuing the **Google Data Analytics Professional Certificate (Cou
 
 | Project | Description |
 |---------|-------------|
-| 🚗 **Car Rental Management System** | C++ application implementing Doubly Linked Lists & Binary Search Trees |
-| 🍽 **Little Lemon Restaurant Website** | Responsive website built using HTML, CSS & JavaScript |
-| 🚌 **Bus Reservation System** | Console-based reservation system developed in C++ |
-| 💰 **Finance Manager System** | Object-Oriented Programming project in C++ |
+| 🚗 **Car Rental Management System** | C++ project implementing Doubly Linked Lists & Binary Search Trees |
+| 🍽 **Little Lemon Restaurant Website** | Responsive website built with HTML, CSS & JavaScript |
+| 🚌 **Bus Reservation System** | Console-based C++ application |
+| 💰 **Finance Manager System** | Object-Oriented Programming project |
 | 📊 **Data Analytics Portfolio** | Coming Soon |
 
-> *Project links will be added as more repositories are published.*
+> ⭐ More projects are continuously being added as I progress through university and professional certifications.
 
 ---
 
@@ -130,43 +139,17 @@ I'm currently pursuing the **Google Data Analytics Professional Certificate (Cou
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Overview
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=laibah-bakhtawar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibah-bakhtawar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=laibah-bakhtawar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laibah-bakhtawar&theme=tokyo-night&hide_border=true"/>
-
-</p>
+> GitHub statistics widgets occasionally become unavailable because they rely on third-party services. If they're loading correctly for you, you can place your preferred stats cards here.
 
 ---
 
 # 🌱 My GitHub Journey
 
-I'm actively building this GitHub profile by documenting university projects, completing the Google Data Analytics Professional Certificate, and creating practical software and data analytics projects.
+I believe consistent learning creates meaningful progress.
 
-Every repository represents another step in my learning journey.
+Every repository I publish reflects a new concept learned, a problem solved, or a project completed. My goal is to build a GitHub portfolio that showcases continuous growth, practical experience, and curiosity across multiple areas of technology.
 
 ---
 
@@ -188,10 +171,8 @@ Every repository represents another step in my learning journey.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+## ⭐ Thanks for Visiting!
 
-*"Creativity fuels ideas. Curiosity drives learning. Consistency builds excellence."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
+*"Stay curious. Keep learning. Build things that matter."*
 
 </div>
