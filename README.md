@@ -1,164 +1,144 @@
 <div align="center">
 
-# 👋 Hi, I'm Laibah Bakhtawar
+# Hi 👋, I'm Laibah Bakhtawar
 
-### 💻 Software Engineering Student | Exploring Data Analytics • AI • Software Development
+### 💻 Software Engineering Student | 🌐 Aspiring Full-Stack Web Developer | 🇵🇰 Pakistan
 
-*"Learning by building. Growing through curiosity. Creating with purpose."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Aspiring+Full-Stack+Web+Developer;Building+Projects+%26+Learning+Every+Day" />
 
-<img src="https://komarev.com/ghpvc/?username=laibah-bakhtawar&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
+<br>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-0A66C2?style=for-the-badge" alt="Software Engineering"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-198754?style=for-the-badge" alt="Data Analytics"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/laibah-bakhtawar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:laibahbakhtawar221@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=laibah-bakhtawar&label=Profile%20Views&color=2ECC71&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 I'm a **3rd-year Software Engineering student** at **Fatima Jinnah Women University (FJWU), Islamabad**.
+🎓 **5th Semester Software Engineering Student** at **Fatima Jinnah Women University (FJWU), Pakistan**
 
-I'm passionate about learning through practical projects and continuously exploring different areas of technology. Rather than limiting myself to one field, I'm building a strong foundation in **Software Engineering**, **Data Analytics**, and **Artificial Intelligence** while expanding my technical skills every semester.
+🌱 Passionate about **Web Development**, Software Engineering, and building user-friendly applications.
 
-Currently, I'm pursuing the **Google Data Analytics Professional Certificate (Coursera)** and documenting my learning journey here on GitHub.
+🚀 Currently learning modern web technologies and strengthening my problem-solving skills through real-world projects.
 
----
+💡 I enjoy transforming ideas into responsive and functional web applications.
 
-# 🚀 Currently Working On
-
-- 📚 Google Data Analytics Professional Certificate
-- 📊 Building my Data Analytics Portfolio
-- 💻 Publishing university projects on GitHub
-- 🐍 Learning Python for Data Analytics
-- 📈 Strengthening SQL, Excel & Tableau
-- 🌱 Exploring Open Source
+🎯 **Goal:** Become a skilled **Full-Stack Web Developer** and contribute to impactful software products.
 
 ---
 
-# 🎓 Education
+## 🛠️ Tech Stack
 
-### 🎓 Fatima Jinnah Women University (FJWU)
+### 💻 Languages
 
-**Bachelor of Software Engineering**
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,sql" />
+</p>
 
-📍 Islamabad, Pakistan
+### ⚙️ Tools
 
-**2024 – 2028**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🌱 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
 
 ---
 
-# 💻 Technical Skills
-
-## Programming Languages
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=laibah-bakhtawar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibah-bakhtawar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-## Tools & Platforms
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+<img src="https://streak-stats.demolab.com?user=laibah-bakhtawar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-## Also Familiar With
+---
 
-- 📊 Microsoft Excel
-- 🌐 Cisco Packet Tracer
-- 💡 Prompt Engineering
+## 🚀 Featured Projects
+
+### 🚌 Bus Reservation System
+Console-based reservation system developed in **C++** featuring seat booking, cancellation, and ticket management.
+
+### 💰 Finance Manager System
+Object-Oriented Programming project implementing inheritance, polymorphism, dynamic memory allocation, and budget management.
+
+### 🚗 Car Rental System
+Data Structures project using Doubly Linked Lists and Binary Search Trees (BST) for efficient vehicle management.
+
+🌐 **More Web Development Projects Coming Soon...**
 
 ---
 
-# 📚 Currently Learning
+## 🏆 Achievements
 
-- 📊 Microsoft Excel for Data Analytics
-- 🗄 SQL
-- 🐍 Python
-- 📈 Tableau
-- 📉 R Programming
-- 🤖 Artificial Intelligence Fundamentals
+- 🏅 Honhaar Scholarship Recipient
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Leadership Experience
 
-| Project | Description |
-|---------|-------------|
-| 🚗 **Car Rental Management System** | C++ application implementing Doubly Linked Lists and Binary Search Trees |
-| 🍽 **Little Lemon Restaurant Website** | Responsive website built with HTML, CSS & JavaScript |
-| 🚌 **Bus Reservation System** | Console-based reservation system developed in C++ |
-| 💰 **Finance Manager System** | Object-Oriented Programming project in C++ |
-| 🗄 **Database Management System** | Coming Soon |
-| 🌐 **Computer Network Project** | Coming Soon |
-| 📊 **Data Analytics Portfolio** | Coming Soon |
+### Sponsorship & Logistics Team Lead
 
-> More projects are continuously being added as I progress through university and professional certifications.
+**Artificial Intelligence Community of Pakistan (FJWU Chapter)**
+
+- Managed sponsorships and partnerships for university events.
+- Coordinated logistics and event planning.
+- Collaborated with faculty members and student volunteers.
+- Strengthened communication, leadership, and teamwork skills.
 
 ---
 
-# 🏆 Achievements
+## 📜 Certifications
 
-🏅 Merit-Based Scholarship Recipient
-
-💻 CM Punjab Laptop Scheme 2025 Recipient
-
----
-
-# 🎯 Goals for 2026
-
-- 🎓 Complete the Google Data Analytics Professional Certificate
-- 📊 Build 15+ practical projects
-- 🐍 Strengthen Python for Data Analytics
-- 📈 Master SQL, Excel & Tableau
-- 🌍 Contribute to Open Source
-- 💼 Secure a Data Analytics Internship
+- 🎓 Meta Front-End Developer Professional Certificate
+- 🎓 Microsoft UX Design Professional Certificate
+- 🎓 IBM Introduction to Artificial Intelligence
+- 🎓 Google AI Essentials
+- 🎓 Google Prompting Essentials
 
 ---
 
-# 🛠️ GitHub Tools
+## 🎯 2026 Goals
 
-> GitHub statistics widgets sometimes become unavailable because they rely on third-party services. Once they're working, you can add them back below.
+- ✅ Build 20+ Web Development Projects
+- ✅ Master JavaScript
+- ✅ Learn React.js
+- ✅ Learn Node.js & Express.js
+- ✅ Learn MongoDB
+- ✅ Build Full-Stack Applications
+- ✅ Contribute to Open Source
+- ✅ Secure a Web Development Internship
 
 ---
 
-# 🌱 My GitHub Journey
+## 📫 Connect With Me
 
-This GitHub profile reflects my learning journey as a Software Engineering student. Every repository represents a new concept learned, a challenge solved, or a project completed.
+<p>
 
-My goal is to continuously build practical software, data analytics, and AI projects while documenting my growth as a developer.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:laibahbakhtawar221@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/laibah-bakhtawar/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/laibah-bakhtawar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:laibahbakhtawar221@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -167,8 +147,8 @@ My goal is to continuously build practical software, data analytics, and AI proj
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+### ⭐ Thanks for visiting my GitHub!
 
-**"Stay curious. Keep learning. Build things that matter."**
+### 💚 *Learning • Building • Growing*
 
 </div>
